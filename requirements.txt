@@ -2,3 +2,5 @@ gym
 numpy
 matplotlib
 tensorflow
+gym[box2d]
+gym[classic_control]
